@@ -4,6 +4,6 @@ golang implementation for simple send mail using mandrill api
 
 
 after cloning repo, 
-```go
+```shell
 go get github.com/mostafah/mandrill
 ```
